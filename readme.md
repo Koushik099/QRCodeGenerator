@@ -1,13 +1,13 @@
-# This is JS Random Jokes Project.
+# This is JS QR Code Generator Project.
 
-I gave lots of effort to complete this Random Jokes Project. Using CSS3, HTML5 and JavaSCript, The new Utilities.
+I gave lots of effort to complete this QR Code Generator Project. Using CSS3, HTML5 and JavaSCript, The new Utilities.
 
 # View this Project On Netlify, Here is the Link.
 
-**[RandomJokes](https://funjokes.netlify.app/)**
+**[QRCode](https://yourqrcode.netlify.app/)**
 
 # Here is the Screenshot, take a look.
 
-![Project-6](./Image/Project.png)
+![Project-7](./Image/Project.png)
 
 **Thank You.**
